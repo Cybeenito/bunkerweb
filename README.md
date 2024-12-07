@@ -1,4 +1,4 @@
-<p align="center">
+<p align="justify">
 	<img alt="BunkerWeb logo" src="https://github.com/bunkerity/bunkerweb/raw/v1.5.12/misc/logo.png" height=100 width=350 />
 </p>
 
